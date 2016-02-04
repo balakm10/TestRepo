@@ -3,3 +3,6 @@ Modifying the content of document1.
 Updating doc 1 after new branch created.
 
 master code change.
+
+conflict content in new branch.
+
